@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  UnitTest5.5.cpp
+C:\Users\zuLton\Documents\project5\Project5.5\Project5.5\5.5.cpp(7,15): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\zuLton\Documents\project5\Project5.5\UnitTest5.5\UnitTest5.5.cpp(15,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\zuLton\Documents\project5\Project5.5\Project5.5\5.5.cpp(21): warning C4715: 'f': not all control paths return a value
+     Creating library C:\Users\zuLton\Documents\project5\Project5.5\x64\Debug\UnitTest5.5.lib and object C:\Users\zuLton\Documents\project5\Project5.5\x64\Debug\UnitTest5.5.exp
+  UnitTest5.5.vcxproj -> C:\Users\zuLton\Documents\project5\Project5.5\x64\Debug\UnitTest5.5.dll

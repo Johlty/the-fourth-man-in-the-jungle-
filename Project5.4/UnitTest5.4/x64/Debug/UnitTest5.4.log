@@ -1,0 +1,8 @@
+﻿  UnitTest5.4.cpp
+C:\Users\zuLton\Documents\project5\Project5.4\UnitTest5.4\UnitTest5.4.cpp(15,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\zuLton\Documents\project5\Project5.4\UnitTest5.4\UnitTest5.4.cpp(20,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\zuLton\Documents\project5\Project5.4\UnitTest5.4\UnitTest5.4.cpp(25,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\zuLton\Documents\project5\Project5.4\UnitTest5.4\UnitTest5.4.cpp(30,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\zuLton\Documents\project5\Project5.4\UnitTest5.4\UnitTest5.4.cpp(35,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+     Creating library C:\Users\zuLton\Documents\project5\Project5.4\x64\Debug\UnitTest5.4.lib and object C:\Users\zuLton\Documents\project5\Project5.4\x64\Debug\UnitTest5.4.exp
+  UnitTest5.4.vcxproj -> C:\Users\zuLton\Documents\project5\Project5.4\x64\Debug\UnitTest5.4.dll
